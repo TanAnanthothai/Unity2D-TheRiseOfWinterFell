@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: e5b267c06fc749f48b5d632d425692d0
+timeCreated: 1495466114
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: health_bar_sprite_0
+    21300002: health_bar_sprite_1
+    21300004: health_bar_sprite_2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: health_bar_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 98
+        width: 203
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.5, y: 8.5}
+        - {x: -101.5, y: -8.5}
+        - {x: 101.5, y: -8.5}
+        - {x: 101.5, y: 8.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: health_bar_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 69
+        width: 203
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.5, y: 8.5}
+        - {x: -101.5, y: -8.5}
+        - {x: 101.5, y: -8.5}
+        - {x: 101.5, y: 8.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: health_bar_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 30
+        width: 221
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.5, y: 15}
+        - {x: -110.5, y: 13}
+        - {x: -110.5, y: -11}
+        - {x: -95.5, y: -15}
+        - {x: 105.5, y: -15}
+        - {x: 110.5, y: -6}
+        - {x: 110.5, y: 10}
+        - {x: 106.5, y: 15}
+      tessellationDetail: 0
+    outline:
+    - - {x: -64, y: -13}
+      - {x: -104, y: -17}
+      - {x: -116, y: -27}
+      - {x: -116, y: -40}
+      - {x: -92, y: -47}
+      - {x: 74, y: -47}
+      - {x: 98, y: -46}
+      - {x: 109, y: -35}
+      - {x: 109, y: -28}
+      - {x: 99, y: -13}
+    - - {x: -107, y: 13}
+      - {x: -107, y: -8}
+      - {x: 98, y: -8}
+      - {x: 100, y: -7}
+      - {x: 100, y: 13}
+    - - {x: -107, y: 42}
+      - {x: -107, y: 21}
+      - {x: 98, y: 21}
+      - {x: 100, y: 22}
+      - {x: 100, y: 42}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
